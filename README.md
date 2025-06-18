@@ -9,7 +9,7 @@
 
 | 파일명 | 주요 내용 |
 
-| Day0523_select.sql | SELECT 기초 문법 실습 (WHERE, ORDER BY 등) |
+| Day0523_select.sql | SELECT 기초 문법 실습 (WHERE, ORDER BY 등) |<br>
 | Day0527_select.sql | 다양한 조건 조회 및 정렬 |
 | Day0528_Insert.sql | INSERT 문 실습, 여러 레코드 삽입 |
 | Day0529_join.sql | INNER JOIN, LEFT JOIN 등 테이블 연결 실습 |
